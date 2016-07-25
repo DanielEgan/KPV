@@ -1,0 +1,6 @@
+[submodule "KPV-Kiosk"]
+	path = KPV-Kiosk
+	url = https://github.com/DanielEgan/KPV-Kiosk.git
+[submodule "KPV-Monitor"]
+	path = KPV-Monitor
+	url = https://github.com/DanielEgan/KPV-Monitor.git
